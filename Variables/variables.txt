@@ -1,0 +1,10 @@
+We use a variable to store a data temporarily in a memory.
+We store a data somewhere and give that location a name. 
+
+Rules for declaring a variable 
+1. Cannot be reserved keyword.
+2. The name should be meaningful 
+3. Cannot start with a number
+4. Cannot contain a space or hyphen 
+5. Are case sensitive
+6. In modern day practice we need to declare a variable one by one

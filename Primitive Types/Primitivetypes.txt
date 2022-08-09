@@ -1,0 +1,10 @@
+There are mainly two data types in Java Script. 
+First is Primitive Data types 
+Second is Refrence Data types 
+
+String   -> For declaring a name or set of characters 
+number  -> Declaring a numberical value. 
+Boolean  -> Either true or false. 
+Undefined -> When the value of a variable is Undefined
+Null -> It depends on the situaion. When we dont want to make variable store empty. 
+

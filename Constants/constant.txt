@@ -1,0 +1,7 @@
+Constant
+    Constant is a variable we use to delcare a variable whose value we do not want to change throughout the program. 
+
+For example 
+const intrestRate= 0.5; 
+
+This value will be not going to change throughout the program. 
